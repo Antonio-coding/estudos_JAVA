@@ -1,8 +1,8 @@
-package lista03.exercio03;
+package lista03.exercio04;
 
 import java.util.Scanner;
 
-public class Exercio03Corrigido {
+public class Exercio04Corrigido {
    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
